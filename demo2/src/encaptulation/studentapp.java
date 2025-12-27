@@ -57,7 +57,7 @@ class student {
 }*/
 public class studentapp {
     public static void main(String[] args) {
-    	
+
     	Scanner sc =new Scanner(System.in);
         student s = new student();
         System.out.println("please enter the name,age,gender");
