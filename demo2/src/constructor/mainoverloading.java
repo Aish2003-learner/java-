@@ -1,5 +1,5 @@
 package constructor;
-
+//how can we call other main method
 public class mainoverloading {
 	public static void main(String[] args) {
 		System.out.println("hello");

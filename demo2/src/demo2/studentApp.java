@@ -1,5 +1,5 @@
 package demo2;
- class student
+ class student10
 {
 	String name;
 	int age;
@@ -13,8 +13,8 @@ package demo2;
 
 public class studentApp {
 	public static void main(String[] args) {
-		student s1= new student();
-		System.out.println("d=before assigning the values");
+		student10 s1= new student10();
+		System.out.println("before assigning the values");
 		System.out.println(s1.name);
 		System.out.println(s1.name);
 		
