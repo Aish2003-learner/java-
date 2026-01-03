@@ -4,6 +4,7 @@ public class AreaOfcircle {
 
 	public static void main(String[] args) {
 		getCircle sd= new getCircle(4);
+		System.out.println(sd.pi);
 		System.out.println(sd.disp());
 		
 	}

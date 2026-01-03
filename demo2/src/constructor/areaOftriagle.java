@@ -5,7 +5,7 @@ public class areaOftriagle {
 	public static void main(String[] args) {
 		
 
-	
+		System.out.println( getTriangle.half);
 	getTriangle sd= new getTriangle(5,4);
 	System.out.println(sd.disp());
 	
@@ -31,3 +31,4 @@ public float disp() {
 	return area;
 }
 }
+
