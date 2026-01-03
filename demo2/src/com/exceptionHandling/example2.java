@@ -33,7 +33,8 @@ public class example2 {
 		catch(ArithmeticException e)
 		{
 			//e.printStackTrace(); //will give the exact line and detail of exception occur
-			System.out.println("divide by zero not allowed");
+
+System.out.println("divide by zero not allowed");
 		}
 		catch(ArrayIndexOutOfBoundsException e)
 		{
